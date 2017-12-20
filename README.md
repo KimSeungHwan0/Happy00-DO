@@ -2,6 +2,8 @@
 make switch in beagleboneblack
 
 1. make hardward
+  - BBB firmware upgrade
+    - See web page : https://beagleboard.org/getting-started#update
   - relay control using gpio
 2. make softward
   - receive ethernet signal and control gpio
